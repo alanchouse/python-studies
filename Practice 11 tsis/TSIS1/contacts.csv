@@ -1,0 +1,5 @@
+name,email,birthday,group,phone,type
+Alice Johnson,alice@gmail.com,2000-01-10,Friend,+77010000001,mobile
+Alice Johnson,alice.work@company.com,2000-01-10,Friend,+77010000002,work
+Bob Stone,bob@corp.com,1998-04-21,Work,+77020000001,work
+Charlie Brown,charlie@mail.com,2001-12-05,Family,+77030000001,home

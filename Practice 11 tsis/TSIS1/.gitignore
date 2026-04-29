@@ -1,0 +1,12 @@
+SHOWCASE.md
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Local generated files
+contacts_export.json
+
+# macOS
+.DS_Store

@@ -1,0 +1,16 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: tsis4_postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: tsis4_db
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5434:5432"
+    volumes:
+      - pgdata_tsis4:/var/lib/postgresql/data
+
+volumes:
+  pgdata_tsis4:
