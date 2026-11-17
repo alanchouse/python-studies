@@ -1,0 +1,5 @@
+
+name,phone,email,birthday,group,type
+Alice,123456789,alice@gmail.com,2000-05-15,Family,mobile
+Bob,987654321,bob@gmail.com,2001-08-20,Work,work
+John,555123456,john@gmail.com,1999-12-10,Friend,home
